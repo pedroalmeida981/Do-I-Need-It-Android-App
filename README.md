@@ -60,7 +60,7 @@ An existing Firebase configuration file is tracked in the historical project; do
 
 Useful manual tests include registration and login failures, empty/whitespace input, offline save and retry, cross-account data isolation, duplicate submissions, update/delete persistence, empty lists, search consistency, loading/error feedback and screen-reader/keyboard accessibility.
 
-See [Interview and QA notes](docs/INTERVIEW_PREP.md) for suggested discussions and test cases. The suggestions are **not claims that these tests have already been executed**.
+Read the [QA case study](docs/QA_CASE_STUDY.md) for a detailed source-based assessment of security, CRUD, search and error handling. See also [Interview and QA notes](docs/INTERVIEW_PREP.md). These scenarios are **proposals, not claims that tests have been executed**.
 
 ## Portfolio context
 
